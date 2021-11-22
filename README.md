@@ -10,4 +10,6 @@ B站 [水哥](https://space.bilibili.com/412704776) 的 waterRPA Go语言实现
 
 存在多个 Sheet 时，仅第一个 Sheet 生效
 
-目前仅提供 Mac Arm64 以及 Windows 64 版本，其他平台需要小伙伴们自行编译。
+目前仅提供 Mac Arm64 以及 Windows 64(交叉编译，未经测试) 版本，其他平台需要小伙伴们自行编译。
+
+网盘链接: https://pan.baidu.com/s/1jWMg5bnVw5Qc3y_Qh-1GOg 提取码: 5xq5 
